@@ -1,0 +1,1 @@
+O código "InverterPilhaPositiva" cria uma pilha para armazenar 5 números inteiros inseridos pelo usuário. Em seguida, ele remove os números negativos da pilha e mantém apenas os números positivos. Após isso, o programa inverte a ordem dos números restantes na pilha e exibe o resultado final, mostrando os números positivos na ordem invertida.
